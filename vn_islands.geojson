@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quần đảo Hoàng Sa",
+        "type": "island"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[...]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quần đảo Trường Sa",
+        "type": "island"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[...]]]
+      }
+    }
+  ]
+}
